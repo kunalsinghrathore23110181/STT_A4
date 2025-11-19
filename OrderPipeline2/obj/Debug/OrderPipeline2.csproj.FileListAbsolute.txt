@@ -1,0 +1,5 @@
+C:\Users\kunal\OneDrive\Desktop\Software tools and technique\STT_A5\OrderPipeline2\obj\Debug\OrderPipeline2.csproj.AssemblyReference.cache
+C:\Users\kunal\OneDrive\Desktop\Software tools and technique\STT_A5\OrderPipeline2\obj\Debug\OrderPipeline.Form1.resources
+C:\Users\kunal\OneDrive\Desktop\Software tools and technique\STT_A5\OrderPipeline2\obj\Debug\OrderPipeline2.Properties.Resources.resources
+C:\Users\kunal\OneDrive\Desktop\Software tools and technique\STT_A5\OrderPipeline2\obj\Debug\OrderPipeline2.csproj.GenerateResource.cache
+C:\Users\kunal\OneDrive\Desktop\Software tools and technique\STT_A5\OrderPipeline2\obj\Debug\OrderPipeline2.csproj.CoreCompileInputs.cache

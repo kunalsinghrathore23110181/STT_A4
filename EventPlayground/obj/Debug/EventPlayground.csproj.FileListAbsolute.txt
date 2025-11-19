@@ -1,0 +1,5 @@
+C:\Users\kunal\OneDrive\Desktop\Software tools and technique\STT_A5\EventPlayground\obj\Debug\EventPlayground.csproj.AssemblyReference.cache
+C:\Users\kunal\OneDrive\Desktop\Software tools and technique\STT_A5\EventPlayground\obj\Debug\EventPlayground.Form1.resources
+C:\Users\kunal\OneDrive\Desktop\Software tools and technique\STT_A5\EventPlayground\obj\Debug\EventPlayground.Properties.Resources.resources
+C:\Users\kunal\OneDrive\Desktop\Software tools and technique\STT_A5\EventPlayground\obj\Debug\EventPlayground.csproj.GenerateResource.cache
+C:\Users\kunal\OneDrive\Desktop\Software tools and technique\STT_A5\EventPlayground\obj\Debug\EventPlayground.csproj.CoreCompileInputs.cache
